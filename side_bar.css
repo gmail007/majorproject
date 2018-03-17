@@ -1,0 +1,36 @@
+.head{
+	border-bottom: 1px solid;
+	height: 50px;
+	width: 250px;
+} 
+h1 {
+	color: red;
+	padding-left: 50px;
+}
+.compose{
+	border: 150px;
+	background-color: red;
+	width: 150px;
+	height: 40px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.compose p{
+	color: white;
+	text-align: center;
+	padding-top:10px;
+}
+ul{
+	margin-top: 20px;
+	padding-left: 50px;
+	list-style: none;
+}
+li{
+	padding-top: 20px;
+}
+li a{
+	color: black;
+}
+li i{
+	padding-left: 5px;
+}
