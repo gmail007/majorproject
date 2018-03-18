@@ -16,7 +16,7 @@
 				
 			</div>
 			<div class="compose">
-				<p><b>COMPOSE<b></p>
+				<p><b><a href="#">COMPOSE</a><b></p>
 			</div>
 			<div class="nav">
 				<ul>
